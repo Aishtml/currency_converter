@@ -57,7 +57,7 @@ class _ConverterAppState extends State<ConverterApp> {
                       prefixIcon: Icon(Icons.monetization_on_outlined),
                       filled: true,
                       fillColor: Colors.white,
-                      hintText: 'Enter your Naira'),
+                      hintText: 'Enter amount in dollar'),
                 ),
               ),
               TextButton(
